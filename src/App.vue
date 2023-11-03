@@ -11,11 +11,9 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-<<<<<<< HEAD
+
   <HelloWorld msg="Vite + Vuenihao" />
-=======
-  <HelloWorld msg="xuzhiqiang" />
->>>>>>> 5b8d65f5f32c68f1c7eb8eaa9ec644c07074475c
+
 </template>
 
 <style scoped>
